@@ -22,7 +22,7 @@ ___
 **Stats**
 
 <a href="https://github.com/evernife">
-<img src="https://github-readme-stats.vercel.app/api?username=evernife&show_icons=true" alt="EverNife's GitHub Stats" width="46%" height="46%" />
+<img src="https://github-readme-stats.vercel.app/api?username=evernife&show_icons=true&count_private=true" alt="EverNife's GitHub Stats" width="46%" height="46%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evernife&layout=compact&hide=jupyter%20notebook" alt="EverNife's GitHub Stats" width="42%" height="42%" />
 </a>
 
