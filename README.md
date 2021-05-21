@@ -4,7 +4,7 @@
    <body>
       <h2 align="center">Bio</h2>
       <p align="center">
-        <em>A Brazilian Computer Scientist graduated Student at at <a className="greeting-text-p subTitle" href="https://www.fct.unesp.br/">FCT-UNESP</a> that loves programming and gaming. Having more than 5 years of experience with Java Applications and 3 years of Python Data Science.</em>
+        <em>A Brazilian Computer Scientist graduated at <a className="greeting-text-p subTitle" href="https://www.fct.unesp.br/">FCT-UNESP</a> that loves programming and gaming. Having more than 5 years of experience with Java Applications and 3 years of Python Data Science.</em>
         </p>
     <body/>
 <html/>
