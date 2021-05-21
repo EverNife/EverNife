@@ -4,7 +4,7 @@
    <body>
       <h2 align="center">Bio</h2>
       <p align="center">
-        <em>A Brazilian Computer Scientist undergraduated Student at it's lastest year of graduation at <a className="greeting-text-p subTitle" href="https://www.fct.unesp.br/">FCT-UNESP</a> that loves programming and gaming. Having more than 4 years of experience with Java Applications and 2 years of Python Data Science.</em>
+        <em>A Brazilian Computer Scientist graduated Student at at <a className="greeting-text-p subTitle" href="https://www.fct.unesp.br/">FCT-UNESP</a> that loves programming and gaming. Having more than 5 years of experience with Java Applications and 3 years of Python Data Science.</em>
         </p>
     <body/>
 <html/>
@@ -13,7 +13,7 @@ ___
 
 **About Me**
 
-- Age : 22y.o
+- Age : 23y.o
 - Skills : Java, PHP, HTML, CSS, Javascript, Python
 - School : FCT Unesp - Presidente Prudente, SP - Brazil
 - Portfólio: https://evernife.github.io/ (Soon)
