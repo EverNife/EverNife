@@ -1,4 +1,4 @@
-### Hi there, I'm EverNife! 👋
+### Hi there, I'm Pétrus! 👋
 
 <html>
    <body>
@@ -14,15 +14,14 @@ ___
 **About Me**
 
 - Age : 23y.o
-- Skills : Java, PHP, HTML, CSS, Javascript, Python
+- Skills : Java, PHP, HTML, CSS, Javascript, Python, React, Spring Boot and a few others
 - School : FCT Unesp - Presidente Prudente, SP - Brazil
-- Portfólio: https://evernife.github.io/ (Soon)
+- Portfólio: https://petrus.dev/
 - Linkedin: https://www.linkedin.com/in/petrus-pradella-149215156/
 ___
 **Stats**
 
 <a href="https://github.com/evernife">
-<img src="https://github-readme-stats.vercel.app/api?username=evernife&show_icons=true&count_private=true" alt="EverNife's GitHub Stats" width="46%" height="46%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evernife&layout=compact&hide=jupyter%20notebook" alt="EverNife's GitHub Stats" width="42%" height="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=evernife&show_icons=true&count_private=true" alt="EverNife's GitHub Stats"/>
 </a>
 
