@@ -21,5 +21,6 @@ ___
 ___
 **Stats**
 
-[<img align="left" width="50%" alt="EverNife's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=evernife&show_icons=true&count_private=true">](#)
+[<img align="left" width="50%" alt="EverNife's GitHub Stats" src="https://github-readme-stats-psi-seven-80.vercel.app/api?username=evernife&show_icons=true&count_private=true&hide=contribs&show=prs_merged,prs_merged_percentage">](#)
 [<img align="right" width="45%" alt="EverNife's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=EverNife&theme=default&hide_border=true">](#)
+
