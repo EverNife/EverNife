@@ -4,7 +4,7 @@
    <body>
       <h2 align="center">Bio</h2>
       <p align="center">
-        <em>A Brazilian Computer Scientist graduated from <a className="greeting-text-p subTitle" href="https://www.fct.unesp.br/">FCT-UNESP</a> that loves programming. Being an experiencided FullStack Developer, having more than 8 years of comproved Java Experience and 4 years of React/Next.js</em>
+        <em>A Brazilian Computer Scientist graduated from <a className="greeting-text-p subTitle" href="https://www.fct.unesp.br/">FCT-UNESP</a> that loves programming. Being an experiencided FullStack Developer, having more than 8 years of Java Experience and 4 years of React/Next.js</em>
         </p>
     <body/>
 <html/>
