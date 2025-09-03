@@ -13,7 +13,7 @@ ___
 
 **About Me**
 
-- Age : 26y.o
+- Age : 27y.o
 - Skills : Java, Spring Boot, React, Next.js, Typescript, Javascript, Python, Linux Server Manager and a few others
 - School : FCT Unesp - Presidente Prudente, SP - Brazil
 - Portfólio: https://petrus.dev/
