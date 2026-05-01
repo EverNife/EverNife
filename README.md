@@ -4,7 +4,7 @@
    <body>
       <h2 align="center">Bio</h2>
       <p align="center">
-        <em>A Brazilian Computer Scientist graduated from <a className="greeting-text-p subTitle" href="https://www.fct.unesp.br/">FCT-UNESP</a> that loves programming. Being an experiencided FullStack Developer, having more than 8 years of Java Experience and 4 years of React/Next.js</em>
+        <em>A Brazilian Computer Scientist graduated from <a className="greeting-text-p subTitle" href="https://www.fct.unesp.br/">FCT-UNESP</a> that loves programming. Being an experiencided FullStack Developer, having more than 9 years of Java Experience and 5 years of React/Next.js</em>
         </p>
     <body/>
 <html/>
@@ -13,7 +13,7 @@ ___
 
 **About Me**
 
-- Age : 27y.o
+- Age : 28y.o
 - Skills : Java, Spring Boot, React, Next.js, Typescript, Javascript, Python, Linux Server Manager and a few others
 - School : FCT Unesp - Presidente Prudente, SP - Brazil
 - Portfólio: https://petrus.dev/
